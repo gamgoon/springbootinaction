@@ -1,6 +1,5 @@
 package readinglist;
 
-import java.io.Reader;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
